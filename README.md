@@ -1,2 +1,0 @@
-# dragContents
-Created with CodeSandbox
